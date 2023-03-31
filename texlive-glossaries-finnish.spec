@@ -1,6 +1,6 @@
 Name:		texlive-glossaries-finnish
 Version:	54080
-Release:	1
+Release:	2
 Summary:	Finnish language module for glossaries package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-finnish
