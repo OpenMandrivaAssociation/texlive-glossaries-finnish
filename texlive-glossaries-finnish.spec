@@ -3,7 +3,7 @@ Version:	54080
 Release:	2
 Summary:	Finnish language module for glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-finnish
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-finnish
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-finnish.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-finnish.doc.r%{version}.tar.xz
